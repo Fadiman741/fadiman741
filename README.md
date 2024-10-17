@@ -1,5 +1,5 @@
-<!--### ABOUT ME 💫 :-->
-_____________________________________
+<!--### ABOUT ME 💫 :
+_____________________________________-->
 Hey there 👋 ! I’m a software engineer specializing in Angular for building dynamic, responsive front-ends and Django Rest Framework for crafting robust back-end APIs. I'm skilled in integrating front-end and back-end technologies, with experience across projects like social platforms and management systemsI'm passionate about problem-solving and delivering high-quality, user-centric solutions. I aspire to create impactful solutions across different domains!
 
 
