@@ -1,8 +1,8 @@
-#### 💫 ABOUT ME:
-👋 Hey there! I’m a software engineer specializing in Angular for building dynamic, responsive front-ends and Django Rest Framework for crafting robust back-end APIs. I'm skilled in integrating front-end and back-end technologies, with experience across projects like social platforms and management systems.<br><br>I'm passionate about problem-solving and delivering high-quality, user-centric solutions. Whether it's creating interactive interfaces, developing RESTful APIs, or managing databases. I aspire to create impactful solutions across different domains!
+## 💫 ABOUT ME:
+👋 Hey there! I’m a software engineer specializing in Angular for building dynamic, responsive front-ends and Django Rest Framework for crafting robust back-end APIs. I'm skilled in integrating front-end and back-end technologies, with experience across projects like social platforms and management systemsI'm passionate about problem-solving and delivering high-quality, user-centric solutions. Whether it's creating interactive interfaces, developing RESTful APIs, or managing databases. I aspire to create impactful solutions across different domains!
 For more info visit : https://jade-chebakia-89d6e5.netlify.app/.
 
-#### 💻 TECH STACK:
+## 💻 TECH STACK:
 #### FRONTEND TOOLS
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 #### BACKEND TOOLS
