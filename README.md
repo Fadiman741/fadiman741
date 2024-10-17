@@ -1,7 +1,7 @@
 ### ABOUT ME 💫 :
 _____________________________________
 Hey there 👋 ! I’m a software engineer specializing in Angular for building dynamic, responsive front-ends and Django Rest Framework for crafting robust back-end APIs. I'm skilled in integrating front-end and back-end technologies, with experience across projects like social platforms and management systemsI'm passionate about problem-solving and delivering high-quality, user-centric solutions. I aspire to create impactful solutions across different domains!
-For more info visit : https://jade-chebakia-89d6e5.netlify.app/.
+
 
 ###  TECH STACK 💻 :
 _____________________________________
@@ -20,5 +20,7 @@ _____________________________________
 ### SOCIALS 🌐:
 _____________________________________
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mafadii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mafadilephaka) 
+
+For more info visit : https://jade-chebakia-89d6e5.netlify.app/.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
