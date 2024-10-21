@@ -1,6 +1,6 @@
 <!--### ABOUT ME 💫 :
 _____________________________________-->
-Hey there 👋 ! I’m a software engineer specializing in Angular for building dynamic, responsive front-ends and Django Rest Framework for crafting robust back-end APIs. I'm skilled in integrating front-end and back-end technologies, with experience across projects like social platforms and management systemsI'm passionate about problem-solving and delivering high-quality, user-centric solutions. I aspire to create impactful solutions across different domains!
+Hey there 👋 ! I’m a software engineer specializing in Angular for building dynamic, responsive front-ends and Django Rest Framework for crafting robust back-end APIs. I'm skilled in integrating front-end and back-end technologies, with experience across projects like social platforms and management systemsI'm passionate about problem-solving and delivering high-quality, user-centric solutions. I aspire to create impactful solutions across different domains!For more info visit : https://jade-chebakia-89d6e5.netlify.app/.
 
 
 <!--###  TECH STACK 💻 :-->
@@ -19,8 +19,8 @@ _____________________________________
  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)-->
 <!--### SOCIALS 🌐:-->
 _____________________________________
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mafadii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mafadilephaka) 
+<!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mafadii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mafadilephaka) 
 
-For more info visit : https://jade-chebakia-89d6e5.netlify.app/.
+For more info visit : https://jade-chebakia-89d6e5.netlify.app/.-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
