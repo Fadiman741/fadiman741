@@ -5,7 +5,7 @@
 
 ### Software Engineer
 
-Building scalable software for **FinTech • Mobile • Cloud • Web**
+Building scalable  • Mobile • Cloud • Web**
 
 [Portfolio](https://mafadilephaka.co.za) •
 [LinkedIn](https://linkedin.com/in/mafadilephaka) •
