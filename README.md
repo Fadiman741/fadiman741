@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Mafadi Godfrey Lephaka
 
-### Mid-Level Software Engineer
+### Software Engineer
 
 Building scalable software for **FinTech • Mobile • Cloud • Web**
 
@@ -13,43 +13,6 @@ Building scalable software for **FinTech • Mobile • Cloud • Web**
 
 </div>
 
----
-
-# 📊 At a Glance
-
-| Metric | Value |
-|---------|------:|
-| 💼 Professional Experience | **3+ Years** |
-| 📱 Mobile Apps Built | **10+** |
-| 🌐 Web Applications | **20+** |
-| 💳 Payment Gateways Integrated | **4** |
-| ☁️ Cloud Deployments | **15+** |
-| 🚀 Production Deployments | **40+** |
-| 🧩 REST APIs Developed | **30+** |
-| 👨‍💻 Technologies Used | **25+** |
-
----
-
-# ⚡ Current Stack
-
-### Frontend
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
----
 
 # 📈 GitHub Statistics
 
@@ -74,7 +37,7 @@ Building scalable software for **FinTech • Mobile • Cloud • Web**
 # 🏆 Professional Highlights
 
 
-✅ Built **cross-platform mobile applications** using React Native & Capacitor
+✅ Built **cross-platform mobile applications** using React Native , Capacitor & Expo
 
 ✅ Developed scalable **Angular** enterprise applications
 
@@ -82,30 +45,10 @@ Building scalable software for **FinTech • Mobile • Cloud • Web**
 
 ✅ Integrated **Paystack**, **Stripe**, **PayFast**
 
-✅ Deployed applications using **AWS Cloud**
+✅ Deployed applications
 
 ✅ Published Android application to **Google Play Store**
 
----
-
-# 🚀 Featured Projects
-
-| Project | Stack |
-|---------|------|
-| 📚 Bookara | Angular • Django • PostgreSQL • AWS |
-| 💳 FinTech Platform | React Native • .NET • SQL Server |
-| ✈️ TravelFindMe | Angular • .NET • Capacitor |
-| 🌐 Client Websites | Angular • Django • AWS |
-
----
-
-# 📅 Current Focus
-
-- 📱 Mobile Development
-- ☁️ Cloud Architecture
-- 💳 FinTech
-- 🤖 AI Applications
-- ⚡ System Design
 
 ---
 
