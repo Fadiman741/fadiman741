@@ -37,8 +37,6 @@ const mafadi = {
 };
 ```
 
----
-
 <!--## 📊 GitHub
 
  <p align="center">
@@ -49,6 +47,6 @@ const mafadi = {
 
 <div align="center">
 
-**Always building. Always learning. Always shipping. 🚀**
+****Always building. Always learning. Always shipping. 🚀****
 
 </div>
