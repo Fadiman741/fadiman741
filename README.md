@@ -18,9 +18,7 @@ Building modern products with **Angular**, **React Native**, **.NET**, and **Dja
   </a>
 </p>
 
-<br/>
-
-> *Turning ideas into fast, scalable, production-ready software.*
+ *Turning ideas into fast, scalable, production-ready software.*
 
 </div>
 
@@ -52,7 +50,5 @@ const mafadi = {
 <div align="center">
 
 **Always building. Always learning. Always shipping. 🚀**
-
-![](https://komarev.com/ghpvc/?username=Fadiman741&style=flat-square)
 
 </div>
