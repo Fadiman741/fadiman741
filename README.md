@@ -1,8 +1,47 @@
 
 <div align="center">
+<h5 align="left">TECH STACK</h5>
+
+<div align="left">
+<hr/>
+  <table>
+    <tr>
+      <td width="25%" valign="top" align="left">
+        <h6>FRONTEND & MOBILE</h6>
+        <img
+          src="https://skillicons.dev/icons?i=angular,react,ts,js,tailwind,bootstrap,expo&theme=dark&perline=7"
+          alt="Frontend & Mobile"
+        />
+      </td>
+      <td width="25%" valign="top" align="left">
+        <h6>BACKEND & APIs</h6>
+        <img
+          src="https://skillicons.dev/icons?i=python,django,nodejs,express,dotnet,flask,fastapi&theme=dark&perline=7"
+          alt="Backend & APIs"
+        />
+      </td>
+      <td width="25%" valign="top" align="left">
+        <h6>DATABASE & INFRASTRUCTURE</h6>
+        <img
+          src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,aws,azure,docker,supabase&theme=dark&perline=7"
+          alt="Database & Infrastructure"
+        />
+      </td>
+      <td width="25%" valign="top" align="left">
+        <h6>DEVELOPMENT TOOLS</h6>
+        <img
+          src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,linux,bash&theme=dark&perline=7"
+          alt="Development Tools"
+        />
+      </td>
+    </tr>
+  </table>
+
+</div>
 
   <table>
-     <br />
+    
+    
   <hr />
     <tr>
       <td align="center" width="55%">
@@ -33,7 +72,7 @@
     alt="GitHub contribution streak"
     width="45%"
   />
-
+ 
   <hr />
 
   <img
@@ -44,4 +83,37 @@
   <hr />
   
 
+
 </div>
+
+<h5 align="left">CONNECT WITH ME</h5>
+<hr/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mafadilephaka/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"
+         width="25" height="25" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/fadiman741">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark"
+         width="25" height="25" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/mafadii/">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark"
+         width="25" height="25" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="mailto:info.fadimantech.co.za">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark"
+         width="25" height="25" alt="Email" />
+  </a>
+  <!-- &nbsp;
+  <a href="https://fadimantech.co.za">
+    <img src="https://img.shields.io/badge/Portfolio-14b8a6?style=flat-square&logo=googlechrome&logoColor=white"
+         height="25" alt="Portfolio" />
+  </a> -->
+</p>
+
+
+
