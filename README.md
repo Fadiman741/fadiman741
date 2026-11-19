@@ -1,52 +1,133 @@
 <div align="center">
 
-# Mafadi Godfrey Lephaka
+# MAFADI LEPHAKA
 
-### Software Engineer • Full-Stack Developer
+**Software Engineer · Systems Architect · Product Builder**
 
-Building modern products with **Angular**, **React Native**, **.NET**, and **Django**.
+*Designing systems. Building products. Shipping solutions.*
 
-<p align="center">
-  <a href="https://mafadilephaka.co.za">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mafadilephaka">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mafadi.lephaka21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
- *Turning ideas into fast, scalable, production-ready software.*
+<a href="https://github.com/mafadilephaka?tab=repositories">Explore repositories</a> · <a href="https://skybridge.fadimantech.co.za">SkyBridge</a> · <a href="https://bookara.co.za">BookAra</a>
 
 </div>
 
 ---
 
-## ⚡ What I Do
+### SELECTED PRODUCTS
 
-```ts
-const mafadi = {
-  code: ["TypeScript", "C#", "Python"],
-  frontend: ["Angular", "React Native", "Expo"],
-  backend: ["Django", ".NET", "REST APIs"],
-  databases: ["PostgreSQL", "SQL Server"],
-  cloud: ["Azure", "AWS"],
-  payments: ["Stripe", "PayFast", "Paystack"],
-};
-```
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<!--## 📊 GitHub
+**TRADEPULSE**
 
- <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fadiman741&theme=tokyonight&hide_border=true"/>
-</p> -->
+E-commerce operations and analytics platform combining storefront management, orders, inventory, marketing and customer insights.
+
+<sub>Angular · Django REST · PostgreSQL</sub>
+
+<br><br><a href="https://github.com/mafadilephaka?tab=repositories">Explore work →</a>
+</td>
+<td width="33%" valign="top">
+
+**SKYBRIDGE**
+
+Property management platform for rental applications, document workflows, leases, payments, inspections and maintenance.
+
+<sub>Angular · Django REST · PostgreSQL</sub>
+
+<br><br><a href="https://skybridge.fadimantech.co.za">View platform →</a>
+</td>
+<td width="33%" valign="top">
+
+**BOOKARA**
+
+Mobile-first travel marketplace for discovering packages, booking experiences and connecting travellers with agencies.
+
+<sub>React Native · Expo · Django REST</sub>
+
+<br><br><a href="https://bookara.co.za">View platform →</a>
+</td>
+</tr>
+</table>
+
+### REPOSITORY GALLERY
+
+<!-- GitHub renders this as a compact horizontal table, similar to your screenshot. -->
+<!-- Replace each search link with the exact repository URL when ready. -->
+<table>
+<tr>
+<td width="20%" valign="top">
+
+**[`Real-Time-Weather-App`](https://github.com/search?q=user%3Amafadilephaka+Real-Time-Weather-App&type=repositories)**
+
+A real-time weather application built with Angular, fetching live data from a public API with a functional, visually appealing interface.
+
+<sub>TypeScript</sub>
+
+<br><br><a href="https://github.com/search?q=user%3Amafadilephaka+Real-Time-Weather-App&type=repositories">open →</a>
+</td>
+<td width="20%" valign="top">
+
+**[`Docker-Notes`](https://github.com/search?q=user%3Amafadilephaka+Docker-Notes&type=repositories)**
+
+A public collection of Docker notes and technical learning resources worth exploring.
+
+<sub>Documentation · DevOps</sub>
+
+<br><br><a href="https://github.com/search?q=user%3Amafadilephaka+Docker-Notes&type=repositories">open →</a>
+</td>
+<td width="20%" valign="top">
+
+**[`BusinessManagementSystemAPI`](https://github.com/search?q=user%3Amafadilephaka+BusinessManagementSystemAPI&type=repositories)**
+
+A Django REST Framework API for restaurant management, inventory tracking, ordering and listed stock summaries.
+
+<sub>Python · Django REST</sub>
+
+<br><br><a href="https://github.com/search?q=user%3Amafadilephaka+BusinessManagementSystemAPI&type=repositories">open →</a>
+</td>
+<td width="20%" valign="top">
+
+**[`MYSCHOOLv2`](https://github.com/search?q=user%3Amafadilephaka+MYSCHOOLv2&type=repositories)**
+
+An academic hub for high school students, featuring a dedicated discussion forum and institutional resources.
+
+<sub>HTML · Web</sub>
+
+<br><br><a href="https://github.com/search?q=user%3Amafadilephaka+MYSCHOOLv2&type=repositories">open →</a>
+</td>
+<td width="20%" valign="top">
+
+**[`Skybridge-Dashboard`](https://github.com/search?q=user%3Amafadilephaka+Skybridge-Dashboard&type=repositories)**
+
+A property dashboard for administrators to add and manage listings, upload images and review properties.
+
+<sub>TypeScript</sub>
+
+<br><br><a href="https://github.com/search?q=user%3Amafadilephaka+Skybridge-Dashboard&type=repositories">open →</a>
+</td>
+</tr>
+</table>
+
+<sub>Repository titles and descriptions are based on the supplied screenshot. The links above search your GitHub account rather than assuming unverified repository URLs. GitHub does not allow scripts in profile READMEs, so live star counts need a generated image or GitHub Actions workflow.</sub>
+
+---
+
+### HOW I BUILD
+
+`DISCOVER` → `ARCHITECT` → `ENGINEER` → `INTEGRATE` → `SHIP`
+
+**Frontend** · Angular / React / React Native / TypeScript  
+**Backend** · Django REST / .NET / Node.js  
+**Data** · PostgreSQL / MySQL  
+**Infrastructure** · AWS / Docker / Azure DevOps  
+**Integrations** · Payments / OAuth / REST APIs / Messaging
 
 ---
 
 <div align="center">
 
-****Always building. Always learning. Always shipping. 🚀****
+**BUILD SYSTEMS THAT MAKE COMPLEX THINGS FEEL SIMPLE.**
+
+<sub>© Mafadi Lephaka · FadimanTech</sub>
 
 </div>
