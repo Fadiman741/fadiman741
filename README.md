@@ -1,4 +1,26 @@
 
+<h2 align="left">GitHub Contributions</h2>
+
+<p>
+  <sub>
+    My development activity, open-source contributions,
+    and coding consistency.
+  </sub>
+</p>
+
+<!-- Contribution Calendar -->
+<!-- <p align="center">
+  <img
+    src="https://ghchart.rshah.org/14b8a6/fadiman741"
+    alt="GitHub Contribution Calendar"
+    width="100%"
+  />
+</p> -->
+
+
+
+---
+
 <div align="center">
 <h5 align="left">TECH STACK</h5>
 
@@ -48,7 +70,6 @@
         <img
           src="https://github-readme-stats.vercel.app/api?username=fadiman741&show_icons=true&hide_border=true&bg_color=00000000&title_color=14b8a6&text_color=94a3b8&icon_color=d4a853"
           alt="GitHub statistics"
-          width="100%"
         />
       </td>
       <td align="center" valign="middle">
@@ -58,7 +79,6 @@
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadiman741&layout=compact&hide_border=true&bg_color=00000000&title_color=14b8a6&text_color=94a3b8"
           alt="Most used languages"
-          width="100%"
         />
       </td>
     </tr>
@@ -67,11 +87,20 @@
   <hr />
   
 
+
   <img
     src="https://streak-stats.demolab.com?user=fadiman741&hide_border=true&background=00000000&ring=14B8A6&fire=D4A853&currStreakLabel=14B8A6&sideLabels=94A3B8&dates=94A3B8&sideNums=94A3B8&currStreakNum=94A3B8"
     alt="GitHub contribution streak"
     width="45%"
   />
+  <!-- Contribution Summary -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadiman741&theme=github_dark"
+    alt="GitHub Contribution Summary"
+    width="54%"
+  />
+</p>
  
   <hr />
 
