@@ -115,5 +115,140 @@
   </a> -->
 </p>
 
+ <h2 align="left">Featured Projects</h2>
 
+<p align="left">
+  <sub>
+    Platforms I've designed and developed to solve
+    real-world business challenges.
+  </sub>
+</p>
 
+<table>
+  <tr>
+    <!-- TRADEPULSE -->
+    <td width="50%" valign="top">
+      <h3>TradePulse</h3>
+      <sub>E-Commerce & Business Intelligence</sub>
+      <p>
+        <img
+          src="./assets/tradepulse.png"
+          alt="TradePulse Dashboard"
+          width="100%"
+        />
+      </p>
+      <p>
+        <sub>
+          An integrated commerce platform combining
+          online storefront management, business
+          analytics, marketing automation and
+          order operations.
+        </sub>
+      </p>
+      <h4>The Problem</h4>
+      <p>
+        <sub>
+          Businesses often rely on disconnected
+          systems for sales, inventory, marketing
+          and customer engagement. This creates
+          unnecessary costs, fragmented data and
+          operational inefficiencies.
+        </sub>
+      </p>
+      <h4>The Solution</h4>
+      <p>
+        <sub>
+          TradePulse centralises e-commerce
+          operations, real-time analytics,
+          inventory management and customer
+          marketing into a unified platform,
+          helping businesses make data-driven
+          decisions and reduce operational
+          complexity.
+        </sub>
+      </p>
+      <h4>Key Features</h4>
+      <p>
+        <sub>
+          • Integrated e-commerce storefront<br>
+          • Revenue, sales and profit analytics<br>
+          • Inventory and order management<br>
+          • Customer behaviour and retention<br>
+          • Email and marketing campaigns<br>
+          • Promotions and discount management<br>
+          • Delivery and shipment tracking<br>
+          • SEO and storefront optimisation
+        </sub>
+      </p>
+      <h4>Technology Stack</h4>
+      <p>
+        <img
+          src="https://skillicons.dev/icons?i=angular,ts,python,django,postgres,aws&theme=dark&perline=6"
+          width="180"
+          alt="TradePulse Tech Stack"
+        />
+      </p>
+      <td/>
+        <td>
+    <!-- SKYBRIDGE -->
+      <h3>SkyBridge</h3>
+      <sub>Property & Rental Management</sub>
+      <p>
+        <img
+          src="./assets/skybridge.png"
+          alt="SkyBridge Platform"
+          width="100%"
+        />
+      </p>
+      <p>
+        <sub>
+          A digital property management platform
+          connecting property agencies, landlords,
+          agents and tenants through streamlined
+          rental and property management workflows.
+        </sub>
+      </p>
+      <h4>The Problem</h4>
+      <p>
+        <sub>
+          Traditional rental processes depend on
+          manual applications, scattered documents,
+          delayed approvals and fragmented
+          communication, making property management
+          inefficient for both agencies and tenants.
+        </sub>
+      </p>
+      <h4>The Solution</h4>
+      <p>
+        <sub>
+          SkyBridge digitises the rental lifecycle,
+          from property discovery and applications
+          to lease agreements, payments, maintenance
+          and ongoing property management through
+          a centralised platform.
+        </sub>
+      </p>
+      <h4>Key Features</h4>
+      <p>
+        <sub>
+          • Property listings and discovery<br>
+          • Digital rental applications<br>
+          • Document uploads and verification<br>
+          • Application fee payment processing<br>
+          • Electronic lease agreements<br>
+          • Rent and deposit management<br>
+          • Maintenance request tracking<br>
+          • Multi-agency property management
+        </sub>
+      </p>
+      <h4>Technology Stack</h4>
+      <p>
+        <img
+          src="https://skillicons.dev/icons?i=angular,ts,python,django,postgres,supabase&theme=dark&perline=6"
+          width="180"
+          alt="SkyBridge Tech Stack"
+        />
+      </p>
+    </td>
+  </tr>
+</table>
