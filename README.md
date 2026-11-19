@@ -2,6 +2,8 @@
 <div align="center">
 
   <table>
+     <br />
+  <hr />
     <tr>
       <td align="center" width="55%">
         <img
@@ -23,20 +25,23 @@
     </tr>
   </table>
 
-  <br />
+  <hr />
+  
 
   <img
     src="https://streak-stats.demolab.com?user=fadiman741&hide_border=true&background=00000000&ring=14B8A6&fire=D4A853&currStreakLabel=14B8A6&sideLabels=94A3B8&dates=94A3B8&sideNums=94A3B8&currStreakNum=94A3B8"
     alt="GitHub contribution streak"
-    width="75%"
+    width="45%"
   />
 
-  <br />
+  <hr />
 
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=fadiman741&bg_color=00000000&color=94a3b8&line=14b8a6&point=d4a853&area=true&area_color=14b8a6&hide_border=true"
     alt="GitHub activity graph"
     width="100%"
   />
+  <hr />
+  
 
 </div>
